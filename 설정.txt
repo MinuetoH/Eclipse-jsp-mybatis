@@ -1,0 +1,10 @@
+1. java project 생성 : mybatisjava
+2. mybatisjava > lib 폴더 생성
+   mybatis-3.2.7.jar
+   ojdbc6.jar 
+   복사하기
+
+3.  mybatisjava/src : mapper 패키지 생성
+    mybatis.properties, mybatis-config.xml 복사하기
+
+4. 프로젝트 > 오른쪽마우스 > Build Path > configure build path
